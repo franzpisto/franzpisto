@@ -12,12 +12,13 @@ sections:
       - content: >-
           Do you need a nice and fast website for your online activity? You
           travel a lot and you would like a light website where you put your
-          stories? I'm here for you!
+          stories? I'm here for you! [Click here for more informations](/web).
         title: Web services
       - content: >-
           I love photographing cars. Static and moving ones, I don't care. I
           just love it. However I can take pictures of whatever you want:
-          interiors, exteriors, landscape, animals.. just ask if you need me!
+          interiors, exteriors, landscape, animals.. just ask if you need me! 
+          [Click here for more informations](/photo).
         title: Photo services
     subtitle: 'First of all, I do essentially two things: photos and websites.'
     title: What I Do
