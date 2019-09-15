@@ -2,7 +2,7 @@
 title: Web Services
 menu:
   main:
-    name: Web Services
+    name: Web
     weight: 2
 layout: page
 ---
