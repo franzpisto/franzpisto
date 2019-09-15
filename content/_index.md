@@ -22,6 +22,10 @@ sections:
     subtitle: 'First of all, I do essentially two things: photos and websites.'
     title: What I Do
     type: servicesblock
+  - component: portfolio_block.html
+    layout_style: tiles
+    num_projects_displayed: 4
+    type: portfolioblock
   - component: contact_block.html
     section_id: contact
     subtitle: An optional subtitle of the section
