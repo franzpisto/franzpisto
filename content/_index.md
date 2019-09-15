@@ -16,10 +16,9 @@ sections:
           informations](https://franzpisto.netlify.com/web-services/).
         title: Web services
       - content: >-
-          I love photographing cars. Static and moving ones, I don't care. I
-          just love it. However I can take pictures of whatever you want:
-          interiors, exteriors, landscape, animals.. just ask if you need me! 
-          [Click here for more
+          I love photographing cars. Static and moving ones. I just love it.
+          However I can take pictures of whatever you want: interiors,
+          exteriors, landscape, etc.  [Click here for more
           informations](https://franzpisto.netlify.com/photo-services/).
         title: Photo services
     subtitle: 'First of all, I do essentially two things: photos and websites.'
