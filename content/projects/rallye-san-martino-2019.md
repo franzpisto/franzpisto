@@ -1,6 +1,7 @@
 ---
 title: Rallye San Martino 2019
 date: 2019-09-15T21:07:36.421Z
+thumb_img_path: /images/dsc_0183_risultato.jpeg
 layout: project
 ---
 > Historique
