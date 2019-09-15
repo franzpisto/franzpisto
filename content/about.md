@@ -5,7 +5,7 @@ img_path: ''
 menu:
   main:
     name: About
-    weight: 4
+    weight: 6
 layout: page
 ---
 Hi, I'm Francesco Pistore and I'm a student of the MSc Finance in Venice, Italy.
