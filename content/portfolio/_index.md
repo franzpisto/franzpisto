@@ -1,6 +1,6 @@
 ---
 title: Portfolio
-subtitle: This is an optional subtitle for the portfolio page.
+subtitle: Here you can find my projects and past works.
 layout_style: mosaic
 menu:
   main:
@@ -8,3 +8,4 @@ menu:
     weight: 2
 layout: portfolio
 ---
+
