@@ -6,3 +6,14 @@ thumb_img_path: /images/mockuper_risultato.jpg
 layout: project
 ---
 ![](/images/mockuper_risultato.jpg)
+
+Stintup.com is managed every day by me.
+
+My roles includes:
+
+1. Backend
+2. Frontend
+3. SEO
+4. Writing posts
+5. Editing Images
+6. Editing Videos
