@@ -1,51 +1,38 @@
 ---
 title: Home
 sections:
-  - type: heroblock
-    title: 'Hi, I''m Stackbit Exto Portfolio Theme.'
+  - component: hero_block.html
+    content: ' And this is simply one of mine jobs: welcome to franzpisto.com'
     section_id: hero
-    component: hero_block.html
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
-  - type: portfolioblock
-    title: Recent Work
-    section_id: latest-projects
-    component: portfolio_block.html
-    subtitle: An optional subtitle of the section
+    title: 'Hi, I''m Francesco Pistore.'
+    type: heroblock
+  - component: portfolio_block.html
     layout_style: mosaic
     num_projects_displayed: 6
+    section_id: latest-projects
+    subtitle: An optional subtitle of the section
+    title: Recent Work
+    type: portfolioblock
     view_all_text: View All
     view_all_url: portfolio/index.html
-  - type: servicesblock
-    title: What We Do
+  - component: services_block.html
     section_id: services
-    component: services_block.html
-    subtitle: An optional subtitle of the section
     serviceslist:
-      - title: Service Title
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla tortor at, pulvinar orci.
-      - title: Service Title
-        content: >-
-          Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-          a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
-          tincidunt ut tellus. Vivamus rhoncus mattis varius. 
-      - title: Service title
-        content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
-      - title: Service title
-        content: >-
-          Aliquam pulvinar, orci ac scelerisque tempus, felis leo sagittis
-          justo, sit amet condimentum lorem nibh vel quam. Duis consectetur
-          lorem ipsum, non efficitur urna viverra et.
-  - type: testimonialsblock
-    title: Testimonials
+      - content: >-
+          Do you need a nice and fast website for your online activity? You
+          travel a lot and you would like a light website where you put your
+          stories? I'm here for you!
+        title: Web services
+      - content: >-
+          I love photographing cars. Static and moving ones, I don't care. I
+          just love it. However I can take pictures of whatever you want:
+          interiors, exteriors, landscape, animals.. just ask if you need me!
+        title: Photo services
+    subtitle: 'First of all, I do essentially two things: photos and websites.'
+    title: What I Do
+    type: servicesblock
+  - component: testimonials_block.html
     section_id: testimonials
-    component: testimonials_block.html
     subtitle: An optional subtitle of the section
     testimonialslist:
       - author: John Doe
@@ -59,23 +46,26 @@ sections:
           Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
           convallis, interdum ligula vel, pretium diam. Integer commodo sem at
           dui sollicitudin, vel posuere justo laoreet.
-  - type: postsblock
-    title: Latest from the Blog
-    section_id: latest-posts
-    component: posts_block.html
-    subtitle: An optional subtitle of the section
-    num_posts_displayed: 2
-    actions:
+    title: Testimonials
+    type: testimonialsblock
+  - actions:
       - label: View Blog
         url: blog/index.html
-  - type: contactblock
-    title: Contact Us
-    section_id: contact
-    component: contact_block.html
+    component: posts_block.html
+    num_posts_displayed: 2
+    section_id: latest-posts
     subtitle: An optional subtitle of the section
+    title: Latest from the Blog
+    type: postsblock
+  - component: contact_block.html
+    section_id: contact
+    subtitle: An optional subtitle of the section
+    title: Contact Us
+    type: contactblock
 menu:
   main:
     name: Home
     weight: 1
 layout: home
 ---
+
