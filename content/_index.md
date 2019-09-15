@@ -29,8 +29,10 @@ sections:
     type: portfolioblock
   - component: contact_block.html
     section_id: contact
-    subtitle: An optional subtitle of the section
-    title: Contact Us
+    subtitle: >-
+      Hi there! Thank you so much for your interest in working together. Please
+      fill the contact form below.
+    title: Contact Me
     type: contactblock
 menu:
   main:
