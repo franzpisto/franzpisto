@@ -28,6 +28,7 @@ sections:
     num_projects_displayed: 4
     title: Latest Projects
     type: portfolioblock
+    view_all_url: 'https://franzpisto.netlify.com/portfolio/'
   - component: contact_block.html
     section_id: contact
     subtitle: >-
