@@ -6,4 +6,4 @@ layout: project
 ---
 ![](/images/dsc_0008.jpeg "Alfa Romeo GTAm (Replica)")
 
-![Porsche Exhibition](/images/dsc_0061.jpeg)
+![](/images/dsc_0061.jpeg "Porsche Exhibition")
