@@ -22,15 +22,6 @@ sections:
     subtitle: 'First of all, I do essentially two things: photos and websites.'
     title: What I Do
     type: servicesblock
-  - actions:
-      - label: View Blog
-        url: blog/index.html
-    component: posts_block.html
-    num_posts_displayed: 2
-    section_id: latest-posts
-    subtitle: An optional subtitle of the section
-    title: Latest from the Blog
-    type: postsblock
   - component: contact_block.html
     section_id: contact
     subtitle: An optional subtitle of the section
