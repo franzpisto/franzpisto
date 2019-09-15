@@ -25,6 +25,7 @@ sections:
   - component: portfolio_block.html
     layout_style: tiles
     num_projects_displayed: 4
+    title: Latest Projects
     type: portfolioblock
   - component: contact_block.html
     section_id: contact
