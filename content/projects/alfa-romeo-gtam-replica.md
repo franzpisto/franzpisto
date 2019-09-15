@@ -4,10 +4,12 @@ date: 2019-09-15T20:24:57.209Z
 thumb_img_path: /images/dsc_0008.jpeg
 layout: project
 ---
-## Porsche Exhibition
+> Alfa Romeo GTAm (Replica)
+
+![](/images/dsc_0008.jpeg)
+
+> Porsche Exhibition
 
 ![](/images/dsc_0061.jpeg)
 
-## Alfa Romeo GTAm (Replica)
-
-![](/images/dsc_0008.jpeg)
+![](/images/dsc_0213.jpeg)
