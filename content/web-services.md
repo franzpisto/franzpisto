@@ -38,4 +38,4 @@ Why you should choose me:
 2. You’ll have my support every month and a fast (very fast) website for your business.
 3. You can request a fixed price instead, if you don’t need support.
 
-[Feel free to reach me via the contact form!](https://franzpisto.netlify.com/contact/)
+[Feel free to reach me via the contact form!](https://franzpisto.com/contact/)
