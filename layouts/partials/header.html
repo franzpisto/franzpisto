@@ -3,7 +3,6 @@
     <div class="site-header-inside">
       <div class="site-branding">
         {{ if .Site.Params.header.logo_img }}
-        <link rel="icon" href="favicon.ico" type="image/x-icon"> 
         <p class="site-logo">
           <a href="{{ "/" | relURL }}">
             <img src="{{ .Site.Params.header.logo_img | relURL }}" alt="Logo" />
