@@ -6,7 +6,7 @@ subtitle: >-
   you!
 menu:
   main:
-    name: Web
+    name: WEB
     weight: 2
 layout: page
 ---
