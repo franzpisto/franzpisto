@@ -20,4 +20,4 @@ What I do:
 3. I can take photos of the exterior and interior of your activity.
 4. If you need also some good photosof your products, I’m here.
 
-[Feel free to reach me through the contact form](https://franzpisto.netlify.com/contact/).
+[Feel free to reach me through the contact form](https://franzpisto.com/contact/).
