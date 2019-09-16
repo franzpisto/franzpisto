@@ -5,7 +5,7 @@ subtitle: >-
   here for you.
 menu:
   main:
-    name: Photo
+    name: PHOTO
     weight: 3
 layout: page
 ---
