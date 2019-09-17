@@ -1,5 +1,5 @@
 title: franzpisto
-baseURL: franzpisto.com/
+baseURL: franzpisto.com
 params:
   accent_color: pink
   color_scheme: light
