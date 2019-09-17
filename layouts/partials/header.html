@@ -32,7 +32,6 @@
         </p><!-- .site-logo -->
         {{ end }}
         {{ if or (eq .Params.layout "home") (eq .Params.layout "blog") }}
-        {{ partial "seo_schema" . }}
         <h1 class="site-title"><a href='{{ "/" | relURL }}'>{{ .Site.Params.header.title }}</a></h1>
         {{ else }}
         <p class="site-title"><a href='{{ "/" | relURL }}'>{{ .Site.Params.header.title }}</a></p>
