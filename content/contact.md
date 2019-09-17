@@ -6,4 +6,4 @@ menu:
     weight: 7
 layout: contact
 ---
-Hi there! Thank you so much for your interest in working together. Please fill the contact form below.
+Hi there! Thank you so much for your interest in working together. Please fill the contact form below or write an e-mail to [info@franzpisto.com](<mailto: info@franzpisto.com>).
