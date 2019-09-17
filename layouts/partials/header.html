@@ -7,6 +7,19 @@
           <a href="{{ "/" | relURL }}">
             <img src="{{ .Site.Params.header.logo_img | relURL }}" alt="Logo" />
           </a>
+        <!-- Icons -->
+        <!-- Icons: General favicon -->
+        <link rel="shortcut icon" href="/favicon.ico">
+        <link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32">
+        <link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96">
+        <link rel="icon" type="image/png" href="/favicon-194x194.png" sizes="194x194">
+        <!-- Icons: Add to homescreen for Chrome on Android -->
+        <meta name="mobile-web-app-capable" content="yes">
+        <link rel="icon" type="image/png" href="/android-chrome-192x192.png" sizes="192x192">
+        <!-- Icons: Add to homescreen for Safari on iOS -->
+        <meta name="apple-mobile-web-app-capable" content="yes">
+        <meta name="apple-mobile-web-app-status-bar-style" content="black">
+        <meta name="apple-mobile-web-app-title" content="franzpisto">
         </p><!-- .site-logo -->
         {{ end }}
         {{ if or (eq .Params.layout "home") (eq .Params.layout "blog") }}
