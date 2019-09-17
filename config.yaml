@@ -18,4 +18,4 @@ disableKinds:
   - RSS
 enableRobotsTXT: true
 canonifyURLs: true
-    post: "/blog/:title/"
+post: "/posts/:title/"
