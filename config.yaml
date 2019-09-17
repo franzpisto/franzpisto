@@ -16,3 +16,5 @@ params:
     title: franzpisto
 disableKinds:
   - RSS
+enableRobotsTXT = true
+canonifyURLs = true
