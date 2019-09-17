@@ -18,3 +18,5 @@ disableKinds:
   - RSS
 enableRobotsTXT: true
 canonifyURLs: true
+[permalinks]
+    post: "/blog/:title/"
