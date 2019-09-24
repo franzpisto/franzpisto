@@ -12,8 +12,16 @@ layout: page
 ---
 This is what I do:
 
-1. Static websites - (best for individual and SMEs)
-2. Dynamic websites (with WordPress) - (best for blog that publish many posts, news magazine, etc)
+1. **Static websites** - (best for individual and SMEs)
+2. **Dynamic websites** (with **WordPress**) - (best for blog that publish many posts, news magazine, etc)
+
+\| Title | Title |
+
+\| ------| ----- |
+
+\| Text  | Text  |
+
+\| Text  | Text  |
 
 Who I am:
 
