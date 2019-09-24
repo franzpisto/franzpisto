@@ -27,4 +27,9 @@ layout: page
 | You’ll have my support every month and a fast (very fast) website for your business                                                          |
 | You can request a fixed price instead, if you don’t need support                                                                             |
 
+| Service | Monthly Price | Fixed Price |
+| ------| ----- | ----- |
+| **Static websites**  | from 50,00€  | from 500,00€  |
+| **Dynamic websites (WordPress)**  | from 60,00€  | from 600,00€  |
+
 [Feel free to reach me via the contact form!](https://franzpisto.com/contact/)
