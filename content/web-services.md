@@ -15,11 +15,11 @@ layout: page
 | **Static websites**  | Best option for individual and SMEs                                                      |
 | **Dynamic websites** | Built with WordPress. Best option for blog that publish many posts, news magazines, etc. |
 
-| WHO I AM                                       | WHAT I'LL DO FOR YOU                                                                      | WHAT I CAN'T DO                                                               |
+| WHAT I'LL DO FOR YOU                                                                      | WHAT I CAN'T DO                                                               |
 | ---------------------------------------------- | ----------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
-| I’m not a graphic person                       | 1. I send you some theme (you can choose from various graphic for your theme)             | I’m not a graphic person as I said, so I can’t do big graphic project for you |
-| I’m not a programmer                           | 2. I build your website with your personalized logo and text                              | I’m not a programmer as well, so I can’t build a specific theme from scratch  |
-| **I just help you to go online in a fast way** | 3. If you buy the monthly subscription you’ll have my support every month for every needs |                                                                               |
+| 1. I send you some theme (you can choose from various graphic for your theme)             | I’m not a graphic person as I said, so I can’t do big graphic project for you |
+| 2. I build your website with your personalized logo and text                              | I’m not a programmer as well, so I can’t build a specific theme from scratch  |
+| 3. If you buy the monthly subscription you’ll have my support every month for every needs |                                                                               |
 
 | WHY YOU SHOULD CHOOSE ME                                                                                                                     |
 | -------------------------------------------------------------------------------------------------------------------------------------------- |
