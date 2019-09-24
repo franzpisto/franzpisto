@@ -28,7 +28,7 @@ I don't know how many photos I took during the lasts years, but I'm sure that I 
 
 ## My passion for Internet
 
-_About my passion for web?_ It all started during my first two years of high school. I had a friend from India that was very good in making websites.
+_What about my passion for web?_ It all started during my first two years of high school. I had a friend from India that was very good in making websites.
 
 I start to improve my skills and I published my first website, pistonet, during 2009 a the age of 17.
 
