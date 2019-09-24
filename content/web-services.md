@@ -21,10 +21,10 @@ layout: page
 | I’m not a programmer                       | I build your website with your personalized logo and text                              | I’m not a programmer as well, so I can’t build a specific theme from scratch  |
 | I just help you to go online in a fast way | If you buy the monthly subscription you’ll have my support every month for every needs |                                                                               |
 
-Why you should choose me:
-
-1. You’ll pay a very small amount of money: just 10€ per month if you choose monthly payment and your website is static with less than 10 pages.
-2. You’ll have my support every month and a fast (very fast) website for your business.
-3. You can request a fixed price instead, if you don’t need support.
+| Why you should choose me                                                                                                                     |
+| -------------------------------------------------------------------------------------------------------------------------------------------- |
+| You’ll pay a very small amount of money: just 10€ per month if you choose monthly payment and your website is static with less than 10 pages |
+| You’ll have my support every month and a fast (very fast) website for your business                                                          |
+| You can request a fixed price instead, if you don’t need support                                                                             |
 
 [Feel free to reach me via the contact form!](https://franzpisto.com/contact/)
