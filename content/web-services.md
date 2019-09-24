@@ -15,13 +15,10 @@ This is what I do:
 1. **Static websites** - (best for individual and SMEs)
 2. **Dynamic websites** (with **WordPress**) - (best for blog that publish many posts, news magazine, etc)
 
-\| Title | Title |
-
-\| ------| ----- |
-
-\| Text  | Text  |
-
-\| Text  | Text  |
+| WHAT I DO            |                                                                                          |
+| -------------------- | ---------------------------------------------------------------------------------------- |
+| **Static websites**  | Best option for individual and SMEs                                                      |
+| **Dynamic websites** | Built with WordPress. Best option for blog that publish many posts, news magazines, etc. |
 
 Who I am:
 
