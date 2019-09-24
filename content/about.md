@@ -30,13 +30,13 @@ I don't know how many photos I took during the lasts years, but I'm sure that I 
 
 _What about my passion for the web?_ It all started during my first two years of high school. I had a friend from India that was very good in making websites.
 
-I start to improve my skills and I published my first website, pistonet, during 2009 a the age of 17.
+I started to improve my skills and I published my first website, pistonet, during 2009 a the age of 17.
 
 But I jumped in a new world (for me) only during 2012, when I discover WordPress, its plugins, its themes and, most of all, the SEO.
 
 I started [Stintup.com](https://www.stintup.com/) and it was my job during universities years. Thanks to Stintup I traveled a lot, both for business reasons and just for passion. I visited more than 25 countries, I achieved press membership in MWC Barcelona, Geneva International Motor Show, AME Padua, EXPO 2015 and many other events.
 
-Now I just want to share with you my experience, building a nice and fast website that can help you to achieve your next objectives too.
+**Now I just want to share with you my experience, building a nice and fast website that can help you to achieve your next objectives too**.
 
 ## What I do here with franzpisto.com?
 
@@ -44,7 +44,8 @@ franzpisto.com is just my professional website. I used to call me franzpisto all
 
 I offer especially two services:
 
-1. Web services (making them, manage them, support you)
-2. Photo services (I take photo of your products and your business and make them better).
+1. \[Web services](https://franzpisto.com/web-services/ "Web services") (making them, manage them, support you)
+2. \[Photo services](https://franzpisto.com/photo-services/ "Photo services") 
+    (I take photo of your products and your business and make them better).
 
 _Thank You for reading!_
