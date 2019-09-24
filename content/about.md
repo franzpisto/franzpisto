@@ -18,7 +18,7 @@ In 2006, at the age of 14, I received my first pocket camera. I started to make 
 
 Anyway, after 5 years, during 2011, my mom decided to jump from her historical (but beautiful) analog camera to a new DSLR.. and what DSLR! It was a beautiful Nikon D90 with a stock 18-55mm.
 
-I was shocked about that beauty and everytime my dad went to a motorsport even I I took with me also my mom's D90.
+I was shocked about that beauty and everytime my dad went to a motorsport event I took with me also my mom's D90.
 
 I started to photograph rallies since my early ages. However only with the D90 I understood that a good camera with a good lens (even if stock) was the basic to do great photos.
 
