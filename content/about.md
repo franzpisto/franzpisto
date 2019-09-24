@@ -44,7 +44,7 @@ franzpisto.com is just my professional website. I used to call me franzpisto all
 
 I offer especially two services:
 
-1. \[Web services](https://franzpisto.com/web-services/) (making them, manage them, support you)
-2. \[Photo services](https://franzpisto.com/photo-services/) (I take photo of your products and your business and make them better).
+1. [Web services](https://franzpisto.com/web-services/) (making them, manage them, support you)
+2. [Photo services](https://franzpisto.com/photo-services/) (I take photo of your products and your business and make them better).
 
 _Thank You for reading!_
