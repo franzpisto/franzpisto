@@ -38,7 +38,7 @@ I started [Stintup.com](https://www.stintup.com/) and it was my job during unive
 
 **Now I just want to share with you my experience, building a nice and fast website that can help you to achieve your next objectives too**.
 
-## Certification
+## Certifications
 
 * [Google - Marketing Digital Fundamental](https://franzpisto.com/Google%20-%20Fondamenti%20di%20Marketing%20Digitale.pdf)
 * [MATLAB Onramp](https://franzpisto.com/MATLAB%20Onramp.pdf)
