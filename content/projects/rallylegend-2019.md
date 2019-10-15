@@ -11,4 +11,6 @@ layout: project
 
 ![](/images/dsc_0058.jpeg)
 
+![](/images/dsc_0149.jpeg)
+
 > Action: Special Stage
