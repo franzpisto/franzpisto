@@ -1,9 +1,15 @@
 ---
 title: Prealpi Master Show 2019
+subtitle: >-
+  Prealpi Master Show is one of the most important non-tarmac (gravel/mud)
+  italian rally, held in North-East Italy (Treviso province), every year the
+  weekend before Christmas Holidays.
 date: 2019-12-22T22:41:14.519Z
 thumb_img_path: /images/dsc_0820.jpeg
 layout: project
 ---
+> "La Cava" Spectacular Point
+
 ![](/images/dsc_0529.jpeg)
 
 ![](/images/dsc_0532.jpeg)
@@ -75,6 +81,8 @@ layout: project
 ![](/images/dsc_0745.jpeg)
 
 ![](/images/dsc_0760.jpeg)
+
+> Intersection Spectacular Point
 
 ![](/images/dsc_0784.jpeg)
 
