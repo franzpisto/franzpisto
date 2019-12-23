@@ -18,15 +18,9 @@ layout: project
 
 ![](/images/dsc_0554.jpeg)
 
-![](/images/dsc_0558.jpeg)
-
-![](/images/dsc_0559.jpeg)
-
 ![](/images/dsc_0560.jpeg)
 
 ![](/images/dsc_0562.jpeg)
-
-![](/images/dsc_0566.jpeg)
 
 ![](/images/dsc_0569.jpeg)
 
@@ -62,8 +56,6 @@ layout: project
 
 ![](/images/dsc_0657.jpeg)
 
-![](/images/dsc_0659.jpeg)
-
 ![](/images/dsc_0667.jpeg)
 
 ![](/images/dsc_0674.jpeg)
@@ -98,13 +90,7 @@ layout: project
 
 ![](/images/dsc_0807.jpeg)
 
-![](/images/dsc_0809.jpeg)
-
 ![](/images/dsc_0812.jpeg)
-
-![](/images/dsc_0813.jpeg)
-
-![](/images/dsc_0815.jpeg)
 
 ![](/images/dsc_0816.jpeg)
 
