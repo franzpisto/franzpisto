@@ -14,9 +14,9 @@ Of course this has nothing to do with my jobs.. well. Here I have some space to 
 
 ## My passion for photography
 
-In 2006, at the age of 14, I received my first pocket camera. I started to make some photos but I noticed some years later, that I was doing more vlog than photos... well, it could sound normal right now, but I can tell you that during first 2000s was very strange!
+In 2006, at the age of 14, I received my first pocket camera. I started to make some photos but I noticed some years later, that I was doing more vlogs than photos... well, it could sound normal right now, but I can tell you that during first 2000s was very strange!
 
-Anyway, after 5 years, during 2011, my mom decided to jump from her historical (but beautiful) analog camera to a new DSLR.. and what DSLR! It was a beautiful Nikon D90 with a stock 18-55mm.
+Anyway, after 5 years, during 2011, my mom decided to jump from her historical (but beautiful) analog camera to a new DSLR.. and what DSLR! It was a beautiful Nikon D90 with a stock 18-105mm.
 
 I was shocked about that beauty and everytime my dad went to a motorsport event I took with me also my mom's D90.
 
