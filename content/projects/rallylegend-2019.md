@@ -1,5 +1,8 @@
 ---
 title: Rallylegend 2019
+subtitle: >-
+  One of the most iconic rally even in the world, with all historic and legend
+  cars driven by the original and true rally drivers of the past times.
 date: 2019-10-15T16:54:38.575Z
 thumb_img_path: /images/dsc_0197.jpeg
 layout: project
