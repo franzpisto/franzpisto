@@ -5,6 +5,7 @@ subtitle: >-
   the European most important event regarding vintage and classic cars and
   motorcycles. I participate every year as a member of the press.
 date: 2019-11-01T01:32:14.676Z
+thumb_img_path: /images/DSC_0010.jpeg
 layout: project
 ---
 ![](/images/dsc_0005.jpeg)
