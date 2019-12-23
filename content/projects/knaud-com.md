@@ -3,7 +3,7 @@ title: KNAUD.com
 subtitle: >-
   KNAUD is the last website I made. It's also the main website of my future
   company.
-date: 2019-09-15T22:41:59.774Z
+date: 2019-08-31T22:41:59.774Z
 thumb_img_path: /images/mockuper.jpg
 layout: project
 ---
