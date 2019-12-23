@@ -2,6 +2,7 @@
 title: Finarte Padua (Italy) Car Auction 2019
 subtitle: 'Car Auction in Padua, NE Italy, during Auto e Moto d''Epoca (AME 2019) event.'
 date: 2019-11-02T01:54:12.224Z
+thumb_img_path: /images/DSC_0215.jpeg
 layout: project
 ---
 ![](/images/dsc_0215.jpeg)
