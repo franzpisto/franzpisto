@@ -8,6 +8,24 @@ date: 2019-12-22T22:41:14.519Z
 thumb_img_path: /images/dsc_0820.jpeg
 layout: project
 ---
+> Surroundings and People
+
+![](/images/dsc_0442.jpeg)
+
+![](/images/dsc_0444.jpeg)
+
+![](/images/dsc_0448.jpeg)
+
+![](/images/dsc_0451.jpeg)
+
+![](/images/dsc_0452.jpeg)
+
+![](/images/dsc_0473.jpeg)
+
+![](/images/dsc_0835.jpeg)
+
+![](/images/dsc_0857.jpeg)
+
 > "La Cava" Spectacular Point
 
 ![](/images/dsc_0529.jpeg)
