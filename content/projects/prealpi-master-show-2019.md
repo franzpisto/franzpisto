@@ -10,21 +10,21 @@ layout: project
 ---
 > Surroundings and People
 
-![](/images/dsc_0442.jpeg)
+![](/images/dsc_0442.jpg)
 
-![](/images/dsc_0444.jpeg)
+![](/images/dsc_0444.jpg)
 
-![](/images/dsc_0448.jpeg)
+![](/images/dsc_0448.jpg)
 
-![](/images/dsc_0451.jpeg)
+![](/images/dsc_0451.jpg)
 
-![](/images/dsc_0452.jpeg)
+![](/images/dsc_0452.jpg)
 
-![](/images/dsc_0473.jpeg)
+![](/images/dsc_0473.jpg)
 
-![](/images/dsc_0835.jpeg)
+![](/images/dsc_0835.jpg)
 
-![](/images/dsc_0857.jpeg)
+![](/images/dsc_0857.jpg)
 
 > "La Cava" Spectacular Point
 
