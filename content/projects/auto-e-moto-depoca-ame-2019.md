@@ -28,7 +28,7 @@ layout: project
 
 ![](/images/dsc_0092.jpeg)
 
-![](/images/dsc_0098.jpeg)
+![](/images/dsc_0098_1.jpeg)
 
 ![](/images/dsc_0112.jpeg)
 
