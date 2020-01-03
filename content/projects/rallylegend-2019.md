@@ -15,9 +15,9 @@ layout: project
 
 ![](/images/dsc_0058.jpeg)
 
-![](/images/dsc_0149.jpeg)
+![](/images/dsc_0149_1.jpeg)
 
-![](/images/dsc_0157.jpeg)
+![](/images/dsc_0157_1.jpeg)
 
 > Action: Special Stage
 
@@ -37,7 +37,7 @@ layout: project
 
 ![](/images/dsc_0309.jpeg)
 
-![](/images/dsc_0338.jpeg)
+![](/images/dsc_0338_1.jpeg)
 
 ![](/images/dsc_0349.jpeg)
 
