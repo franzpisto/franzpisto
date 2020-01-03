@@ -4,6 +4,7 @@ subtitle: >-
   First shots of some typical alpine species during my visit of Innsbruck
   Alpinezoo in Tirol, Austria.
 date: 2020-01-03T20:16:28.028Z
+thumb_img_path: /images/DSC_0149.jpeg
 layout: project
 ---
 ![](/images/DSC_0079.jpeg)
