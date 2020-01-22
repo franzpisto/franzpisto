@@ -10,7 +10,7 @@ layout: page
 ---
 |                                                                                                      |                                                                                                                                                                                                                                                                                                                     |
 | ---------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![](/images/me1.jpg) =249x375 | Hi, I'm Francesco Pistore and I'm a student of the MSc Finance in Venice, Italy. Of course this has nothing to do with my online jobs.. well! Here I have some space to explain what happened in the last years that brought me here. If you have questions feel free to send me a message via the contact form! :) |
+| ![](/images/me1.jpg | width=100) | Hi, I'm Francesco Pistore and I'm a student of the MSc Finance in Venice, Italy. Of course this has nothing to do with my online jobs.. well! Here I have some space to explain what happened in the last years that brought me here. If you have questions feel free to send me a message via the contact form! :) |
 
 ## My passion for photography and travel
 
