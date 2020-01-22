@@ -11,9 +11,12 @@ I build my first website a long time ago and I remember that at that time it was
 
 Today I write this blog post that, I hope, will help you at least to understand the basic of this word that can change literally your life. In fact, if you have a local shop, with a proper website you can radically change the way and the amount of your sells. Even if your job has nothing to do with an online activity, you can radically change your life and the way you look at this strange word, I assure this.
 
-To build a website and make it available online you need, basically, two things:
+**To build a website and make it available online you need, basically, two things:**
 
 * a _web server_ (that is the place that host your website)
 * some code and a _graphic theme_ (that are the tings that make your website work)
+
+The first is, usually, something that you have to pay monthly or annually. In fact you'll borrow a physical space to host your website and make it available on the Internet.
+However here I will show you some free alternatives that are very good especially if you don't need specific options.
 
 Photo by Bram Naus on Unsplash
