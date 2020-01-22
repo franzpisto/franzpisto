@@ -21,6 +21,11 @@ sections:
           exteriors, landscape, etc. [Click here for more
           informations](https://franzpisto.com/photo-services/).
         title: Photo services
+      - content: >-
+          I am a student enrolled in a MSc Finance with a passion for capital
+          markets, cryptocurrencies, algo-trading and everything that is behind
+          the word FinTech.
+        title: Finance
     subtitle: 'First of all, I do essentially two things: photos and websites.'
     title: What I Do
     type: servicesblock
