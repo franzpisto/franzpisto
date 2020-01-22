@@ -8,11 +8,8 @@ menu:
     weight: 6
 layout: page
 ---
-
-
-|            |                                                                                          |
-| -------------------- | ---------------------------------------------------------------------------------------- |
-| ![](/images/me1.jpg)  | Hi, I'm Francesco Pistore and I'm a student of the MSc Finance in Venice, Italy. Of course this has nothing to do with my online jobs.. well. Here I have some space to explain what happened in the last years that brought me here.
+| ![](/images/me1.jpg) | Hi, I'm Francesco Pistore and I'm a student of the MSc Finance in Venice, Italy. Of course this has nothing to do with my online jobs.. well. Here I have some space to explain what happened in the last years that brought me here. |
+| -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
 ## My passion for photography and travel
 
