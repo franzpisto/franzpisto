@@ -9,9 +9,11 @@ layout: post
 ---
 I build my first website a long time ago and I remember that at that time it was impossible to find a well written blog post or a guide to build a website. Everything article was very bad written (at leat in Italian, my mother tongue).
 
-Today I write this blog post that, I hope, will help you at least to understand the basic of this word that can change literally your life. In fact, if you have a local shop, with a proper website you can radically change the way and the amount of your sells. Even if your job has nothing to do with an online activity, you can radically change your life and the way you look at this strange word, I assure this.
+Today I write this blog post that, I hope, will help you at least to understand the basic of this world that can change literally your life, and discover how to build a website and a blog for free with no competences.
 
-**To build a website and make it available online you need, basically, two things:**
+In fact, if you have a local shop, with a proper website you can radically change the way and the amount of your sells. Even if your job has nothing to do with an online activity, you can radically change your life and the way you look at this strange word, I assure this.
+
+**To build a website or a blog for free and make it available online you need, basically, two things:**
 
 * a *web server* (that is the place that host your website)
 * some code and a *graphic theme* (that are the tings that make your website work)
@@ -31,7 +33,7 @@ And if you want a fast and free website, what is better than a good static websi
 1. [Create a new account on Netlify](https://www.netlify.com/) (this will be our server and it is free!)
 2. [Create a new account on Stackbit](https://www.stackbit.com/) (this is a revolution for static website and it is in beta right now; you can request early access to use it at this stage)
 
-## Steps to follow
+## Steps to follow to build a website or a blog for free
 
 1. After creating an account on Stackbit, click the big button on the top right of the screen "New Project".
 2. Select a theme (many themes will arrive in the future and are under construction right now).
@@ -44,5 +46,7 @@ And if you want a fast and free website, what is better than a good static websi
 Now your website is live and you can reach it heading to your Netlify account or at your Stackbit account. To enter to your admin area you have to add "/admin" without quotes after your website address.
 
 If you need more help or you can't understand how to do it or you need someone that do this for you and manage your website, I'm here for you! [You can see my services here](https://franzpisto.com/web-services/) or [contact me here](https://franzpisto.com/contact/ù).
+
+![How to build a website and a blog for free](/images/Schermata 2020-01-22 alle 12.38.38.png)
 
 Photo by Bram Naus on Unsplash
