@@ -26,6 +26,11 @@ sections:
           markets, cryptocurrencies, algo-trading and everything that is behind
           the word FinTech.
         title: Finance
+      - content: >-
+          I travel a lot. Usually by plane or by train but also by walk or by
+          car. If you have questions about travel and you ask for suggestions
+          for your next travel feel free to contact me!
+        title: Travel
     subtitle: 'First of all, I do essentially two things: photos and websites.'
     title: What I Do
     type: servicesblock
