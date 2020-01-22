@@ -12,7 +12,7 @@ Hi, I'm Francesco Pistore and I'm a student of the MSc Finance in Venice, Italy.
 
 Of course this has nothing to do with my online jobs.. well. Here I have some space to explain what happened in the last years that brought me here.
 
-## My passion for photography
+## My passion for photography and travel
 
 In 2006, at the age of 14, I received my first pocket camera. I started to make some photos but I noticed some years later, that I was doing more vlogs than photos... well, it could sound normal right now, but I can tell you that during first 2000s was very strange!
 
