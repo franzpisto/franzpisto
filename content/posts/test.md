@@ -13,7 +13,7 @@ Today I write this blog post that, I hope, will help you at least to understand 
 
 To build a website and make it available online you need, basically, two things:
 
-* a web server (that is the place that host your website)
-* some code and a graphic theme (that are the tings that make your website work)
+* a _web server_ (that is the place that host your website)
+* some code and a _graphic theme_ (that are the tings that make your website work)
 
 Photo by Bram Naus on Unsplash
