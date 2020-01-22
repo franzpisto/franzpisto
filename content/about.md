@@ -8,9 +8,11 @@ menu:
     weight: 6
 layout: page
 ---
-Hi, I'm Francesco Pistore and I'm a student of the MSc Finance in Venice, Italy.
 
-Of course this has nothing to do with my online jobs.. well. Here I have some space to explain what happened in the last years that brought me here.
+
+|            |                                                                                          |
+| -------------------- | ---------------------------------------------------------------------------------------- |
+| ![](/images/me1.jpg)  | Hi, I'm Francesco Pistore and I'm a student of the MSc Finance in Venice, Italy. Of course this has nothing to do with my online jobs.. well. Here I have some space to explain what happened in the last years that brought me here.
 
 ## My passion for photography and travel
 
@@ -28,7 +30,7 @@ I don't know how many photos I took during the lasts years, but I'm sure that I 
 
 ## My passion for Internet
 
-_What about my passion for the web?_ It all started during my first two years of high school. I had a friend from India that was very good in making websites.
+*What about my passion for the web?* It all started during my first two years of high school. I had a friend from India that was very good in making websites.
 
 I started to improve my skills and I published my first website, pistonet, during 2009 at the age of 17.
 
@@ -42,9 +44,7 @@ I started [Stintup.com](https://www.stintup.com/) and it was my job during unive
 
 My past and actual studies have nothing to do with what you read up to here. In fact, after a **Bachelor's degree in Economics and Management** I took a **MSc in Finance** where I'm actually enrolled (held completely in english but based in Venice, Italy).
 
-I have a big passion for **financial markets** since since 2013 when I started trading and investing at the age of 20.
-Some years later I discovered the magic world of **FinTech**, where my two big passion of IT and finance come together!
-Only during 2017 I started to study cryptocurrencies and the technology behind it (blockchain) and some months later I started investing in Bitcoin.
+I have a big passion for **financial markets** since since 2013 when I started trading and investing at the age of 20. Some years later I discovered the magic world of **FinTech**, where my two big passion of IT and finance come together! Only during 2017 I started to study cryptocurrencies and the technology behind it (blockchain) and some months later I started investing in Bitcoin.
 
 ## Certifications
 
@@ -62,9 +62,9 @@ I offer especially two services:
 
 ## What I do in general:
 
-- Financial markets (since 2013)
-- Crypto markets (since 2017)
-- Growth Hacking - SEO, SEM, Email Marketing, Social Network (since 2012)
-- WordPress (since 2009)
+* Financial markets (since 2013)
+* Crypto markets (since 2017)
+* Growth Hacking - SEO, SEM, Email Marketing, Social Network (since 2012)
+* WordPress (since 2009)
 
-_Thank You for reading!_
+*Thank You for reading!*
