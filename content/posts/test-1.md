@@ -45,7 +45,7 @@ And if you want a fast and free website, what is better than a good static websi
 
 Now your website is live and you can reach it heading to your Netlify account or at your Stackbit account. To enter to your admin area you have to add "/admin" without quotes after your website address.
 
-If you need more help or you can't understand how to do it or you need someone that do this for you and manage your website, I'm here for you! [You can see my services here](https://franzpisto.com/web-services/) or [contact me here](https://franzpisto.com/contact/ù).
+If you need more help or you can't understand how to do it or you need someone that do this for you and manage your website, I'm here for you! [You can see my services here](https://franzpisto.com/web-services/) or [contact me here](https://franzpisto.com/contact).
 
 ![How to build a website and a blog for free](/images/Schermata 2020-01-22 alle 12.38.38.png)
 
