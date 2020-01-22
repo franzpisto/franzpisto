@@ -28,8 +28,8 @@ sections:
         title: Finance
       - content: >-
           I travel a lot. Usually by plane or by train but also by walk or by
-          car. If you have questions about travel and you ask for suggestions
-          for your next travel feel free to contact me!
+          car. If you have questions about travel and you need suggestions for
+          your next trip, feel free to contact me!
         title: Travel
     subtitle: 'First of all, I do essentially two things: photos and websites.'
     title: What I Do
