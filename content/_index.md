@@ -29,7 +29,7 @@ sections:
       - content: >-
           I travel a lot. Usually by plane or by train but also by walk or by
           car. If you have questions about travel and you need suggestions for
-          your next trip, feel free to contact me!
+          your next trip, feel free to contact me! I'm a Google Local Guide.
         title: Travel
     subtitle: 'First of all, I do essentially two things: photos and websites.'
     title: What I Do
