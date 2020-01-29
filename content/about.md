@@ -26,6 +26,8 @@ I also started to travel a lot, first with my parents along Europe with a camper
 
 I don't know how many photos I took during the lasts years, but I'm sure that I improved my skills and I've a lot of work to do in the future to improve them again and again.
 
+Psst.. I'm also a **Google Local Guide**.
+
 ## My passion for Internet
 
 *What about my passion for the web?* It all started during my first two years of high school. I had a friend from India that was very good in making websites.
