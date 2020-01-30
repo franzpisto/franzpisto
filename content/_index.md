@@ -2,7 +2,7 @@
 title: Home
 sections:
   - component: hero_block.html
-    content: ' And these are simply ones of mine jobs: welcome to franzpisto.com'
+    content: ' Here you will find my past works and what I do: welcome to franzpisto.com'
     section_id: hero
     title: 'Hi, I''m Francesco Pistore.'
     type: heroblock
