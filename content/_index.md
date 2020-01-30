@@ -13,14 +13,17 @@ sections:
           Do you need a nice and fast website for your online activity? You
           travel a lot and you would like a light website where you put your
           stories? I'm here for you, **I can build a fast website for you**!
-          [Click here for more
-          informations](https://franzpisto.com/web-services/).
+
+          [Click here for more informations
+          (https://franzpisto.com/web-services/).
         title: Web services
       - content: >-
           I love photographing **cars**. Static and moving ones. I just love it,
           especially **motorsport photography**. However I can take pictures of
-          whatever you want: interiors, exteriors, landscape, etc. [Click here
-          for more informations](https://franzpisto.com/photo-services/).
+          whatever you want: interiors, exteriors, landscape, etc.
+
+          [Click here for more
+          informations](https://franzpisto.com/photo-services/).
         title: Photo services
       - content: >-
           I am a student enrolled in a **MSc Finance** with a passion for
