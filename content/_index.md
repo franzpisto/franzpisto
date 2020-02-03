@@ -12,12 +12,12 @@ sections:
       - content: >-
           I have more than 10 years of experience of Editor and I learned
           everything about it thanks to my role at Stintup.com (I grew it up
-          alone). I can write article, blog posts, guest posts, improve SEO and
-          everything you need.\
+          alone). I can write article, blog posts, improve **SEO** and help you
+          also with **affiliate network** and **content marketing**.\
 
           [Click here for more
           informations](https://franzpisto.com/editor-services/).
-        title: Editor
+        title: Editor & Digital Marketing
       - content: >-
           Do you need a nice and fast website for your online activity? You
           travel a lot and you would like a light website where you put your
