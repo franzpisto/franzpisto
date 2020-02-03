@@ -57,8 +57,7 @@ sections:
     section_id: contact
     subtitle: >-
       Hi there! Thank you so much for your interest in working together. Please
-      fill the contact form below or write an e-mail to
-      [info@franzpisto.com](<mailto: info@franzpisto.com>).
+      fill the contact form below or write an e-mail to info@franzpisto.com.
     title: Contact Me
     type: contactblock
 menu:
