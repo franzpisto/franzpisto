@@ -60,8 +60,6 @@ sections:
       fill the contact form below.
     title: Contact Me
     type: contactblock
-  - component: contact_block.html
-    type: contactblock
 menu:
   main:
     name: Home
