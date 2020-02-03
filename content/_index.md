@@ -18,6 +18,15 @@ sections:
           Click here for more informations.
         title: Editor
       - content: >-
+          Do you need a nice and fast website for your online activity? You
+          travel a lot and you would like a light website where you put your
+          stories? I'm here for you, **I can build a fast website for you**
+          (starting from a standard theme and bringing it online).\
+
+          [Click here for more
+          informations](https://franzpisto.com/web-services/).
+        title: Website
+      - content: >-
           I love photographing **cars**. Static and moving ones. I just love it,
           especially **motorsport photography**. However I can take pictures of
           whatever you want: interiors, exteriors, landscape, etc.\
@@ -25,14 +34,6 @@ sections:
           [Click here for more
           informations](https://franzpisto.com/photo-services/).
         title: Photo
-      - content: >-
-          Do you need a nice and fast website for your online activity? You
-          travel a lot and you would like a light website where you put your
-          stories? I'm here for you, **I can build a fast website for you**!\
-
-          [Click here for more
-          informations](https://franzpisto.com/web-services/).
-        title: Website
     subtitle: >-
       First of all, I do essentially three things: editor, photographer and I
       build simple websites.
