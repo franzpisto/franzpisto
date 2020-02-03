@@ -29,11 +29,19 @@ sections:
       - content: >-
           I love photographing **cars**. Static and moving ones. I just love it,
           especially **motorsport photography**. However I can take pictures of
-          whatever you want: interiors, exteriors, landscape, etc.\
+          whatever you want: interiors, exteriors, landscape, etc. I'm also a
+          **Google Local Guide**.\
 
           [Click here for more
           informations](https://franzpisto.com/photo-services/).
         title: Photo
+      - content: >-
+          I'm a student of a **Master of Science in Finance**. I started my
+          interests when I was in the middle school and now I'm trying to build
+          a solid background making some valid experiences. I cannot offer any
+          services or any kind of works in this field at the moment but.. let's
+          keep in touch for the future!
+        title: Finance
     subtitle: >-
       First of all, I do essentially three things: editor, photographer and I
       build simple websites.
