@@ -7,7 +7,7 @@ subtitle: >-
 menu:
   main:
     name: WEB
-    weight: 2
+    weight: 3
 layout: page
 ---
 | WHAT I DO            |                                                                                          |
