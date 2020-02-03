@@ -10,13 +10,12 @@ sections:
     section_id: services
     serviceslist:
       - content: >-
-          Do you need a nice and fast website for your online activity? You
-          travel a lot and you would like a light website where you put your
-          stories? I'm here for you, **I can build a fast website for you**!\
-
-          [Click here for more
-          informations](https://franzpisto.com/web-services/).
-        title: Web services
+          I have more than 10 years of experience of Editor and I learned
+          everything about it thanks to my role at Stintup.com (I grew it up
+          alone). I can write article, blog posts, guest posts, improve SEO and
+          everything you need.. basically I'm a \*\*copywriter\*\* .. and an
+          editor, of course.
+        title: Editor
       - content: >-
           I love photographing **cars**. Static and moving ones. I just love it,
           especially **motorsport photography**. However I can take pictures of
@@ -24,20 +23,18 @@ sections:
 
           [Click here for more
           informations](https://franzpisto.com/photo-services/).
-        title: Photo services
+        title: Photo
       - content: >-
-          I have more than 10 years of experience of Editor and I learned
-          everything about it thanks to my role at Stintup.com (I grew it up
-          alone). I can write article, blog posts, guest posts, improve SEO and
-          everything you need.. basically I'm a \*\*copywriter\*\*.. and an
-          editor, of course.
-        title: Editor
-      - content: >-
-          I travel a lot. Usually by plane or by train but also by walk or by
-          car. If you have questions about travel and you need suggestions for
-          your next trip, feel free to contact me! I'm a **Google Local Guide**.
-        title: Travel
-    subtitle: 'First of all, I do essentially two things: photos and websites.'
+          Do you need a nice and fast website for your online activity? You
+          travel a lot and you would like a light website where you put your
+          stories? I'm here for you, **I can build a fast website for you**!\
+
+          [Click here for more
+          informations](https://franzpisto.com/web-services/).
+        title: Website
+    subtitle: >-
+      First of all, I do essentially three things: editor, photographer and I
+      build simple websites.
     title: What I Do
     type: servicesblock
   - component: portfolio_block.html
@@ -52,6 +49,8 @@ sections:
       Hi there! Thank you so much for your interest in working together. Please
       fill the contact form below.
     title: Contact Me
+    type: contactblock
+  - component: contact_block.html
     type: contactblock
 menu:
   main:
