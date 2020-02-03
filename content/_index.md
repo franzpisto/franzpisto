@@ -38,9 +38,10 @@ sections:
         title: Photo
       - content: >-
           I'm a student of a **Master of Science in Finance**. I started my
-          interests when I was in the middle school and now I'm trying to build
-          a solid background making some valid experiences. I cannot offer any
-          services or any kind of works in this field at the moment.
+          interest for finance when I was in the middle school and now I'm
+          trying to build a solid background making some valid experiences. I
+          cannot offer any services or any kind of works in this field at the
+          moment.
         title: Finance
     subtitle: >-
       First of all, I do essentially three things: editor, photographer and I
