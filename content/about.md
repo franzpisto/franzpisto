@@ -8,9 +8,9 @@ menu:
     weight: 7
 layout: page
 ---
-|                                                    |                                                    |
-| -------------------------------------------------- | -------------------------------------------------- |
-| ![](/images/me2.jpg) __________________ | Hi, I'm Francesco Pistore and I'm a student of the MSc Finance in Venice, Italy. Of course this has nothing to do with my online jobs.. well! Here I have some space to explain what happened in the last years that brought me here. If you have questions feel free to send me a message via the contact form! :) |
+|                             |                                                                                                                                                                                                                                                                                                                     |
+| --------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![](/images/me2.jpg) **__** | Hi, I'm Francesco Pistore and I'm a student of the MSc Finance in Venice, Italy. Of course this has nothing to do with my online jobs.. well! Here I have some space to explain what happened in the last years that brought me here. If you have questions feel free to send me a message via the contact form! :) |
 
 ## My passion for photography and travel
 
@@ -38,7 +38,10 @@ But I jumped in a new world (for me) only during 2012, when I discover WordPress
 
 I started [Stintup.com](https://www.stintup.com/) and it was my job during universities years. Thanks to Stintup I traveled a lot, both for business reasons and just for passion. I visited more than 25 countries, I achieved press membership in MWC Barcelona, Geneva International Motor Show, AME Padua, EXPO 2015 and many other events.
 
-**Now I just want to share with you my experience, building a nice and fast website that can help you to achieve your next objectives too**.
+**Now I just want to share with you my experience:**
+
+1. **Write article, blog posts, review and guide SEO-ready for you**
+2. **Building a nice and fast website that can help you to achieve your next objectives**
 
 ## My studies and the passion for Finance
 
