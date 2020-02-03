@@ -10,7 +10,7 @@ sections:
     section_id: services
     serviceslist:
       - content: >-
-          I have more than 10 years of experience of Editor and I learned
+          I have more than 10 years of experience as Editor and I learned
           everything about it thanks to my role at Stintup.com (I grew it up
           alone). I can write article, blog posts, improve **SEO** and help you
           also with **affiliate network** and **content marketing**.\
