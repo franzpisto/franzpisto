@@ -13,8 +13,9 @@ sections:
           I have more than 10 years of experience of Editor and I learned
           everything about it thanks to my role at Stintup.com (I grew it up
           alone). I can write article, blog posts, guest posts, improve SEO and
-          everything you need.. basically I'm a \*\*copywriter\*\* .. and an
-          editor, of course.
+          everything you need.\
+
+          Click here for more informations.
         title: Editor
       - content: >-
           I love photographing **cars**. Static and moving ones. I just love it,
