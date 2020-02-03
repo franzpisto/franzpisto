@@ -26,10 +26,12 @@ sections:
           informations](https://franzpisto.com/photo-services/).
         title: Photo services
       - content: >-
-          I am a student enrolled in a **MSc Finance** with a passion for
-          capital markets, cryptocurrencies, algo-trading and everything that is
-          behind the word FinTech.
-        title: Finance
+          I have more than 10 years of experience of Editor and I learned
+          everything about it thanks to my role at Stintup.com (I grew it up
+          alone). I can write article, blog posts, guest posts, improve SEO and
+          everything you need.. basically I'm a \*\*copywriter\*\*.. and an
+          editor, of course.
+        title: Editor
       - content: >-
           I travel a lot. Usually by plane or by train but also by walk or by
           car. If you have questions about travel and you need suggestions for
