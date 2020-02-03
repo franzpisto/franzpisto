@@ -6,7 +6,7 @@ subtitle: >-
 menu:
   main:
     name: PHOTO
-    weight: 3
+    weight: 4
 layout: page
 ---
 Today have some nice photos on Google Maps and on social network is the very early stage to have success online.
