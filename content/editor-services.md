@@ -17,10 +17,17 @@ I started to study and improve my skills and month by month I started to see the
 
 I also started to improve the basics of digital marketing, especially regarding:
 
-* **affiliation platform**
+* **affiliate marketing**
 * **content marketing**
-* **web advertising**
-
-
+* **Advertising**
 
 I have also a certification by Google in Digital Marketing that you can see here: [Google - Fundamentals of digital marketing](https://franzpisto.com/Google%20-%20Fondamenti%20di%20Marketing%20Digitale.pdf)
+
+| WHAT I DO                 |                                                                                                                                                                                                                                                                                                           |
+| ------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Editor and copywriter** | I can write blog posts, articles, guide, reviews and everything you need for your company or blog or website. Topics that I know better and have more experience in are technology, finance, travel and motors (cars and motorsport).                                                                     |
+| **Affiliate marketing**   | After more than 8 years of collaboration with companies and e-commerce website, I have a bit of experience about the affiliation marketing world. I work with affiliate network such as: Amazon, CJ, eBay, Booking, Viglink, Skimlinks, FinanceAds (n26, Revolut, Hype, etc) and many other.              |
+| **Content marketing**     | As per affiliation network, I have many years of experience in the world of content marketing. I wrote a tons of articles and blog posts for different companies such as: Intel, TIM, Linkem, Mediaset, BNL, CartaSI, Soldo, Sparco, GoDaddy, Sisal, Bancomat, Genertel, Giunti, Infinity and many other. |
+| **Advertising**           | My experience of advertising is limited essentially to the Google AdSense worlds.                                                                                                                                                                                                                         |
+
+[Feel free to reach me via the contact form!](https://franzpisto.com/contact/)
