@@ -10,7 +10,7 @@ layout: page
 ---
 Hi, I'm Francesco Pistore and I'm a student of the MSc Finance in Venice, Italy. Of course this has nothing to do with my online jobs.. well! Here I have some space to explain what happened in the last years that brought me here. If you have questions feel free to send me a message via the contact form! :)
 
-
+![](/images/DSC_0892.JPG "This is me and yes, I like mountains, especially Dolomites. photo by gretaas.im") This is me and yes, I like mountains, especially Dolomites. photo by gretaas.im
 
 ## My passion for photography and travel
 
@@ -28,7 +28,7 @@ I don't know how many photos I took during the lasts years, but I'm sure that I 
 
 Psst.. I'm also a **Google Local Guide**.
 
-![](/images/DSC_0925.JPG "A franzpisto on the Dolomites.. photo by gretaas.im")
+![](/images/DSC_0925.JPG "A franzpisto on the Dolomites.. photo by gretaas.im") A franzpisto on the Dolomites.. photo by gretaas.im
 
 ## My passion for Internet
 
@@ -62,8 +62,9 @@ franzpisto.com is just my professional website. I used to call me franzpisto all
 
 I offer especially two services:
 
-1. [Web services](https://franzpisto.com/web-services/) (making them, manage them, support you)
-2. [Photo services](https://franzpisto.com/photo-services/) (I take photo of your products and your business and make them better).
+1. [Editor, copywriter and digital marketing](https://franzpisto.com/editor-services/) (I write articles, improve blog posts SEO, help you with affiliate marketing, content marketing and advertising)
+2. [Web services](https://franzpisto.com/web-services/) (making them, manage them, support you)
+3. [Photo services](https://franzpisto.com/photo-services/) (I take photo of your products and your business and make them better).
 
 ## What I do in general:
 
