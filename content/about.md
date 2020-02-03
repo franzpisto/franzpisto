@@ -1,6 +1,6 @@
 ---
 title: About Me
-subtitle: This is a short page about me and my work.
+subtitle: This is a short page about me and my works.
 img_path: ''
 menu:
   main:
@@ -8,9 +8,9 @@ menu:
     weight: 7
 layout: page
 ---
-|                                                     |                                                                                                                                                                                                                                                                                                                     |
-| --------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![](/images/me2.jpg)<mark>This is Franz in Portugal, 2017</mark> | Hi, I'm Francesco Pistore and I'm a student of the MSc Finance in Venice, Italy. Of course this has nothing to do with my online jobs.. well! Here I have some space to explain what happened in the last years that brought me here. If you have questions feel free to send me a message via the contact form! :) |
+Hi, I'm Francesco Pistore and I'm a student of the MSc Finance in Venice, Italy. Of course this has nothing to do with my online jobs.. well! Here I have some space to explain what happened in the last years that brought me here. If you have questions feel free to send me a message via the contact form! :)
+
+
 
 ## My passion for photography and travel
 
@@ -27,6 +27,8 @@ I also started to travel a lot, first with my parents along Europe with a camper
 I don't know how many photos I took during the lasts years, but I'm sure that I improved my skills and I've a lot of work to do in the future to improve them again and again.
 
 Psst.. I'm also a **Google Local Guide**.
+
+![](/images/DSC_0925.JPG "A franzpisto on the Dolomites.. photo by gretaas.im")
 
 ## My passion for Internet
 
