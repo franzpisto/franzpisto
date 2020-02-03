@@ -15,7 +15,8 @@ sections:
           alone). I can write article, blog posts, guest posts, improve SEO and
           everything you need.\
 
-          Click here for more informations.
+          [Click here for more
+          informations](https://franzpisto.com/editor-services/).
         title: Editor
       - content: >-
           Do you need a nice and fast website for your online activity? You
