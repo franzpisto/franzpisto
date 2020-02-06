@@ -15,7 +15,7 @@ layout: page
 | **Static websites**  | Best option for individual and SMEs                                                      |
 | **Dynamic websites** | Built with WordPress. Best option for blog that publish many posts, news magazines, etc. |
 
-| WHAT I'LL DO FOR YOU                                                                     | WHAT I CAN'T DO                                                               |
+| WHAT I'LL DO FOR YOU                                                                      | WHAT I CAN'T DO                                                               |
 | ----------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------- |
 | 1. I send you some theme (you can choose from various graphic for your theme)             | I’m not a graphic person as I said, so I can’t do big graphic project for you |
 | 2. I build your website with your personalized logo and text                              | I’m not a programmer as well, so I can’t build a specific theme from scratch  |
@@ -27,10 +27,11 @@ layout: page
 | You’ll have my support every month and a fast (very fast) website for your business                                                          |
 | You can request a fixed price instead, if you don’t need support                                                                             |
 
-| Service | Monthly Price* | Fixed Price |
-| ------| ----- | ----- |
-| **Static websites**  | from 50,00€  | from 500,00€  |
-| **Dynamic websites (WordPress)**  | from 60,00€  | from 600,00€  |
-*Monthly Price: you'll pay this price every month for at least 1 year and you'll have my support for this period.
+| Service                          | Monthly Price*                            | Fixed Price                               |
+| -------------------------------- | ----------------------------------------- | ----------------------------------------- |
+| **Static websites**              | [ask me](https://franzpisto.com/contact/) | [ask me](https://franzpisto.com/contact/) |
+| **Dynamic websites (WordPress)** | [ask me](https://franzpisto.com/contact/) | [ask me](https://franzpisto.com/contact/) |
+
+\*Monthly Price: you'll pay this price every month for at least 1 year and you'll have my support for this period.
 
 [Feel free to reach me via the contact form!](https://franzpisto.com/contact/)
