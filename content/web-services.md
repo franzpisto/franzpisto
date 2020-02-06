@@ -21,11 +21,11 @@ layout: page
 | 2. I build your website with your personalized logo and text                              | I’m not a programmer as well, so I can’t build a specific theme from scratch  |
 | 3. If you buy the monthly subscription you’ll have my support every month for every needs |                                                                               |
 
-| WHY YOU SHOULD CHOOSE ME                                                                                                                     |
-| -------------------------------------------------------------------------------------------------------------------------------------------- |
-| You’ll pay a very small amount of money: just 50€ per month if you choose monthly payment and your website is static with less than 10 pages |
-| You’ll have my support every month and a fast (very fast) website for your business                                                          |
-| You can request a fixed price instead, if you don’t need support                                                                             |
+| WHY YOU SHOULD CHOOSE ME                                                                                                           |
+| ---------------------------------------------------------------------------------------------------------------------------------- |
+| You’ll pay a very small amount of money per month if you choose monthly payment and your website is static with less than 10 pages |
+| You’ll have my support every month and a fast (very fast) website for your business                                                |
+| You can request a fixed price instead, if you don’t need support                                                                   |
 
 | Service                          | Monthly Price*                            | Fixed Price                               |
 | -------------------------------- | ----------------------------------------- | ----------------------------------------- |
