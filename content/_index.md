@@ -26,7 +26,7 @@ sections:
 
           [Click here for more
           informations](https://franzpisto.com/web-services/).
-        title: Website
+        title: Website Dev Helper
       - content: >-
           I love photographing **cars**. Static and moving ones. I just love it,
           especially **motorsport photography**. However I can take pictures of
@@ -35,13 +35,13 @@ sections:
 
           [Click here for more
           informations](https://franzpisto.com/photo-services/).
-        title: Photo
+        title: Photographer
       - content: >-
           I'm a student of a **Master of Science in Finance**. I started to get
           interested in finance from middle school and now I'm trying to build a
           solid background making some valid experiences. I cannot offer any
           services or any kind of works in this field at the moment.
-        title: Finance
+        title: MSc Finance
     subtitle: >-
       First of all, I do essentially three things: editor, photographer and I
       build simple websites.
