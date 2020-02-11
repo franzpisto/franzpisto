@@ -21,8 +21,6 @@ I also started to improve the basics of digital marketing, especially regarding:
 * **content marketing**
 * **Advertising**
 
-I have also a certification by Google in Digital Marketing that you can see here: [Google - Fundamentals of digital marketing](https://franzpisto.com/Google%20-%20Fondamenti%20di%20Marketing%20Digitale.pdf)
-
 | WHAT I DO                 |                                                                                                                                                                                                                                                                                                           |
 | ------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Editor and copywriter** | I can write blog posts, articles, guide, reviews and everything you need for your company or blog or website. Topics that I know better and have more experience in are technology, finance, travel and motors (cars and motorsport).                                                                     |
@@ -31,3 +29,9 @@ I have also a certification by Google in Digital Marketing that you can see here
 | **Advertising**           | My experience of advertising is limited essentially to the Google AdSense worlds.                                                                                                                                                                                                                         |
 
 [Feel free to reach me via the contact form!](https://franzpisto.com/contact/)
+
+## Certifications
+
+![](/images/Google - Fondamenti di Marketing Digitale.jpg)
+
+[Google - Fundamentals of digital marketing](https://franzpisto.com/Google%20-%20Fondamenti%20di%20Marketing%20Digitale.pdf)
