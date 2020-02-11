@@ -32,6 +32,6 @@ I also started to improve the basics of digital marketing, especially regarding:
 
 ## Certifications
 
-![](/images/Google - Fondamenti di Marketing Digitale.jpg)
+* [Google - Fundamentals of digital marketing](https://franzpisto.com/Google%20-%20Fondamenti%20di%20Marketing%20Digitale.pdf)
 
-[Google - Fundamentals of digital marketing](https://franzpisto.com/Google%20-%20Fondamenti%20di%20Marketing%20Digitale.pdf)
+![](/images/Google - Fondamenti di Marketing Digitale.jpg)
