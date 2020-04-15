@@ -3,7 +3,7 @@ title: CV
 menu:
   main:
     name: CV
-    weight: 5
+    weight: 3
 layout: page
 ---
 ## Work Experience
