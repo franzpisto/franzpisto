@@ -60,6 +60,6 @@ menu:
   main:
     name: Home
     weight: 3
-    parent: other
+    parent: about
 layout: home
 ---
