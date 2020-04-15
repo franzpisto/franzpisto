@@ -20,8 +20,4 @@ enableRobotsTXT: true
 canonifyURLs: true
 post: /posts/:title/
 menu:
-  main:
-    - name: Other
-      weight: 6
-      identifier: other
-      url: "#"
+  main: []
