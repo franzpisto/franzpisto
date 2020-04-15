@@ -3,7 +3,7 @@ title: Contact
 menu:
   main:
     name: Contact
-    weight: 2
+    weight: 5
     parent: ""
 layout: contact
 ---
