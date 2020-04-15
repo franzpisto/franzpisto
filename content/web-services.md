@@ -1,13 +1,12 @@
 ---
 title: Web Services
-subtitle: >-
-  Do you need a nice and fast website for your online activity? You travel a lot
-  and you would like a light website where you put your stories? I’m here for
-  you!
+subtitle: Do you need a nice and fast website for your online activity? You
+  travel a lot and you would like a light website where you put your stories?
+  I’m here for you!
 menu:
   main:
     name: WEB
-    weight: 3
+    weight: 1
 layout: page
 ---
 | WHAT I DO            |                                                                                          |
