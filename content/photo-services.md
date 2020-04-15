@@ -5,7 +5,7 @@ subtitle: Do you need some good pictures of your products or your business
 menu:
   main:
     name: PHOTO
-    weight: 2
+    weight: 3
 layout: page
 ---
 Today have some nice photos on Google Maps and on social network is the very early stage to have success online.
