@@ -59,6 +59,7 @@ sections:
 menu:
   main:
     name: Home
-    weight: 0
+    weight: 3
+    parent: other
 layout: home
 ---
