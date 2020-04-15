@@ -5,7 +5,7 @@ img_path: ""
 menu:
   main:
     name: About
-    weight: 4
+    weight: 5
     identifier: about
 layout: page
 ---
