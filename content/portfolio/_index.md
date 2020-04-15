@@ -5,7 +5,7 @@ layout_style: mosaic
 menu:
   main:
     name: Portfolio
-    weight: 0
+    weight: 1
     parent: other
 layout: portfolio
 ---
