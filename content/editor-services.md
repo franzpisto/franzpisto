@@ -6,7 +6,7 @@ subtitle: If you need a well written and SEO ready article, blog post or guest
 menu:
   main:
     name: EDITOR
-    weight: 0
+    weight: 1
 layout: page
 ---
 I started my "career" on the web when I open my first website *pistonet* at the age of 17 during 2009. It was a very simple website built with a program. No code needed and the SEO was not in my vocabulary yet.
