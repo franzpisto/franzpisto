@@ -1,12 +1,11 @@
 ---
 title: Photo Services
-subtitle: >-
-  Do you need some good pictures of your products or your business activity? I’m
-  here for you.
+subtitle: Do you need some good pictures of your products or your business
+  activity? I’m here for you.
 menu:
   main:
     name: PHOTO
-    weight: 4
+    weight: 2
 layout: page
 ---
 Today have some nice photos on Google Maps and on social network is the very early stage to have success online.
