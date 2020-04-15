@@ -58,7 +58,7 @@ sections:
     view_all_url: https://franzpisto.com/portfolio/
 menu:
   main:
-    name: ""
+    name: Home
     weight: 0
 layout: home
 ---
