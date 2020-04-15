@@ -4,7 +4,7 @@ subtitle: Here you can find my projects and past works.
 layout_style: mosaic
 menu:
   main:
-    name: ""
+    name: Portfolio
     weight: 0
 layout: portfolio
 ---
