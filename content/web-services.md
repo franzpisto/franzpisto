@@ -6,7 +6,7 @@ subtitle: Do you need a nice and fast website for your online activity? You
 menu:
   main:
     name: WEB
-    weight: 1
+    weight: 2
 layout: page
 ---
 | WHAT I DO            |                                                                                          |
