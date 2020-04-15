@@ -4,12 +4,12 @@ params:
   accent_color: pink
   color_scheme: light
   footer:
-    content: '&copy; KNAUD. All rights reserved.'
+    content: "&copy; KNAUD. All rights reserved."
     has_social: true
     links:
       - new_window: true
         text: This is a KNAUD Business
-        url: 'https://knaud.com'
+        url: https://knaud.com
   header:
     has_nav: true
     logo_img: /images/franzpisto.png
@@ -18,4 +18,10 @@ disableKinds:
   - RSS
 enableRobotsTXT: true
 canonifyURLs: true
-post: "/posts/:title/"
+post: /posts/:title/
+menu:
+  main:
+    - name: Other
+      weight: 6
+      identifier: other
+      url: "#"
