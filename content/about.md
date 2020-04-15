@@ -1,7 +1,7 @@
 ---
 title: About Me
-subtitle: This is a short page about me and my works.
-img_path: ''
+subtitle: Who I am, what I do and why this website
+img_path: ""
 menu:
   main:
     name: About
@@ -22,7 +22,7 @@ I was shocked about that beauty and everytime my dad went to a motorsport event 
 
 I started to photograph rallies since my early ages. However only with the D90 I understood that a good camera with a good lens (even if stock) was the basic to do great photos.
 
-I also started to travel a lot, first with my parents along Europe with a camper and later with my girlfriend [Greta](https://gretaas.im/). We took more or less 30 planes in just 4 years. Also Greta loves to photograph, especially people and street photography.
+I also started to travel a lot, first with my parents along Europe with a camper and later with my girlfriend [Greta](https://gretaas.im/). We took more or less 30 planes in just 4 years and only for travel (not job neither study) reasons. Also Greta loves to photograph, especially people and street photography.
 
 I don't know how many photos I took during the lasts years, but I'm sure that I improved my skills and I've a lot of work to do in the future to improve them again and again.
 
@@ -53,6 +53,7 @@ I have a big passion for **financial markets** since since 2013 when I started t
 
 ## Certifications
 
+* [Bloomberg Market Concepts] (https://franzpisto.com/BMC.pdf)
 * [Google - Fundamentals of digital marketing](https://franzpisto.com/Google%20-%20Fondamenti%20di%20Marketing%20Digitale.pdf)
 * [MATLAB Onramp](https://franzpisto.com/MATLAB%20Onramp.pdf)
 
