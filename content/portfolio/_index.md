@@ -6,5 +6,6 @@ menu:
   main:
     name: Portfolio
     weight: 0
+    parent: other
 layout: portfolio
 ---
