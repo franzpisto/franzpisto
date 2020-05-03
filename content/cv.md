@@ -24,5 +24,6 @@ layout: page
 ## Certifications
 
 * [Bloomberg Market Concepts](https://franzpisto.com/BMC.pdf)
-* [Google - Fundamentals of digital marketing](https://franzpisto.com/Google%20-%20Fondamenti%20di%20Marketing%20Digitale.pdf)
 * [MATLAB Onramp](https://franzpisto.com/MATLAB%20Onramp.pdf)
+* [Attestato Pilota APR (drone)](https://franzpisto.com/Attestato%20Pilota%20APRITA-RP-0171d5c3acda.pdf)
+* [Google - Fundamentals of digital marketing](https://franzpisto.com/Google%20-%20Fondamenti%20di%20Marketing%20Digitale.pdf)
