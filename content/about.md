@@ -11,8 +11,6 @@ layout: page
 ---
 Hi, I'm Francesco Pistore and I'm a student of the MSc Finance in Venice, Italy. Of course this has nothing to do with my online jobs.. well! Here I have some space to explain what happened in the last years that brought me here. If you have questions feel free to send me a message via the contact form! :)
 
-![](/images/DSC_0892.JPG "This is me and yes, I like mountains, especially Dolomites. photo by gretaas.im") This is me and yes, I like mountains, especially Dolomites.. photo by gretaas.im
-
 ## My passion for photography and travel
 
 In 2006, at the age of 14, I received my first pocket camera. I started to make some photos but I noticed some years later, that I was doing more vlogs than photos... well, it could sound normal right now, but I can tell you that during first 2000s was very strange!
@@ -29,7 +27,7 @@ I don't know how many photos I took during the lasts years, but I'm sure that I 
 
 Psst.. I'm also a **Google Local Guide**.
 
-![](/images/DSC_0925.JPG "A franzpisto on the Dolomites.. photo by gretaas.im") A franzpisto on the Dolomites.. photo by gretaas.im
+And I am also a certified EASA Enac APR pilot for OPEN A1-A3 categories.
 
 ## My passion for Internet
 
@@ -51,12 +49,6 @@ I started [Stintup.com](https://www.stintup.com/) and it was my job during unive
 My past and actual studies have nothing to do with what you read up to here. In fact, after a **Bachelor's degree in Economics and Management** I took a **MSc in Finance** where I'm actually enrolled (held completely in english but based in Venice, Italy).
 
 I have a big passion for **financial markets** since since 2013 when I started trading and investing at the age of 20. Some years later I discovered the magic world of **FinTech**, where my two big passion of IT and finance come together! Only during 2017 I started to study cryptocurrencies and the technology behind it (blockchain) and some months later I started investing in Bitcoin.
-
-## Certifications
-
-* [Bloomberg Market Concepts] (https://franzpisto.com/BMC.pdf)
-* [Google - Fundamentals of digital marketing](https://franzpisto.com/Google%20-%20Fondamenti%20di%20Marketing%20Digitale.pdf)
-* [MATLAB Onramp](https://franzpisto.com/MATLAB%20Onramp.pdf)
 
 ## What I do here with franzpisto.com?
 
