@@ -20,3 +20,9 @@ What I do:
 4. If you need also some good photosof your products, I’m here.
 
 [Feel free to reach me through the contact form](https://franzpisto.com/contact/).
+
+## Certifications
+
+* [Attestato Pilota APR (drone)](https://franzpisto.com/Attestato%20Pilota%20APRITA-RP-0171d5c3acda.pdf)
+
+![]()
