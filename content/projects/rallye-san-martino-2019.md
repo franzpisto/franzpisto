@@ -8,9 +8,15 @@ layout: project
 ---
 > Historique
 
+![](/images/DSC_0197.jpeg)
+
 ![](/images/dsc_0200_risultato.jpeg)
 
 ![](/images/dsc_0171_risultato.jpeg)
+
+![](/images/DSC_0349.jpeg)
+
+![](/images/DSC_0179.jpeg)
 
 > Modern
 
@@ -19,3 +25,9 @@ layout: project
 ![](/images/dsc_0104_risultato.jpeg)
 
 ![](/images/dsc_0105_risultato.jpeg)
+
+![](/images/DSC_0251.jpeg)
+
+![](/images/DSC_0279.jpeg)
+
+![](/images/DSC_0234.jpeg)
