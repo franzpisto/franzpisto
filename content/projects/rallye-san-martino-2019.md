@@ -1,20 +1,14 @@
 ---
-title: Rallye San Martino 2019
-subtitle: >-
-  The International Rallye of San Martino di Castrozza and Primiero is one of
-  the most important rally in Italy and Europe. In 2019 it hosts also the CIWRC
-  (Italian Championship WRC).
+title: Motorsports
+subtitle: Rallye or Tracks, gravel or tarmac, it doesn't matter. If there is an
+  engine, I'll be there.
 date: 2019-09-15T21:07:36.421Z
-thumb_img_path: /images/dsc_0183_risultato.jpeg
+thumb_img_path: /images/DSC_0197.jpeg
 layout: project
 ---
 > Historique
 
 ![](/images/dsc_0200_risultato.jpeg)
-
-![](/images/dsc_0192_risultato.jpeg)
-
-![](/images/dsc_0170_risultato.jpeg)
 
 ![](/images/dsc_0171_risultato.jpeg)
 
@@ -24,12 +18,6 @@ layout: project
 
 ![](/images/dsc_0016_risultato.jpeg)
 
-![](/images/dsc_0095_risultato.jpeg)
-
-![](/images/dsc_0099_risultato.jpeg)
-
 ![](/images/dsc_0104_risultato.jpeg)
 
 ![](/images/dsc_0105_risultato.jpeg)
-
-![](/images/dsc_0139_risultato.jpeg)
