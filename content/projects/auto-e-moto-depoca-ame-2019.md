@@ -1,6 +1,6 @@
 ---
-title: "Motors: Car and Motorbike"
-subtitle: Some shots from my participation in various car exhibition around the world.
+title: "Motors: Cars and Motorbikes Photography"
+subtitle: Some shots from my participation in various car exhibitions around the world.
 date: 2019-11-01T01:32:14.676Z
 thumb_img_path: /images/dsc_0008.jpeg
 layout: project
