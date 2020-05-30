@@ -23,11 +23,11 @@ layout: project
 
 
 
-![](/images/DSC_0123.jpeg)
+
 
 ![](/images/DSC_0149.jpeg)
 
-![](/images/DSC_0153.jpeg)
+
 
 ![](/images/DSC_0155.jpeg)
 
