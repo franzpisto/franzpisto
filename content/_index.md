@@ -46,8 +46,7 @@ sections:
   - component: contact_block.html
     section_id: contact
     subtitle: Hi there! Thank you so much for your interest in working together.
-      Please fill the contact form below or write an e-mail to
-      info@franzpisto.com.
+      Please fill the contact form below to contact me.
     title: Contact Me
     type: contactblock
   - component: portfolio_block.html
