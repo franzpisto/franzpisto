@@ -1,5 +1,5 @@
 ---
-title: Websited
+title: Websites
 subtitle: Some website I built.
 date: 2019-08-31T22:12:43.413Z
 thumb_img_path: /images/mockuper.jpg
