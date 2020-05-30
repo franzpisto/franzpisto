@@ -12,8 +12,6 @@ layout: project
 
 ![](/images/dsc_0171_risultato.jpeg)
 
-![](/images/dsc_0183_risultato.jpeg)
-
 > Modern
 
 ![](/images/dsc_0016_risultato.jpeg)
