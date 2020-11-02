@@ -37,7 +37,7 @@ sections:
           company** for an Intern Business Analyst position. Essentially I do:
           data extraction, data setup and portfolio calculation. Team: Global
           Investment Platform - SimCorp Dimension Competence Center."
-        title: Business Analyst - SCD
+        title: Business Analyst - SCD CC
     subtitle: "First of all, I do essentially four things: editor, photographer,
       simple websites and..."
     title: What I Do
