@@ -37,7 +37,7 @@ sections:
           day I was hired by an investment company and I work as an Intern
           Business Analyst utilizing SimCorp Dimension database for data
           extraction, data setup and portfolio calculation.
-        title: Business Analyst - SimCorp Dimension
+        title: Business Analyst - SCD
     subtitle: "First of all, I do essentially four things: editor, photographer,
       simple websites and..."
     title: What I Do
