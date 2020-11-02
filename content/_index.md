@@ -35,9 +35,9 @@ sections:
         title: Photographer
       - content: I graduated in **Master of Science in Finance** during 2020. The same
           day I was hired by an **investment company** and I work as an Intern
-          Business Analyst utilizing SimCorp Dimension database for data
-          extraction, data setup and portfolio calculation. My area is Global
-          Investment Platform - Simcorp Dimension Competence Center.
+          Business Analyst. I do data extraction, data setup and portfolio
+          calculation. My area is Global Investment Platform - Simcorp Dimension
+          Competence Center.
         title: Business Analyst - SCD
     subtitle: "First of all, I do essentially four things: editor, photographer,
       simple websites and..."
