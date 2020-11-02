@@ -13,12 +13,12 @@ I started my "career" on the web when I open my first website *pistonet* at the 
 
 After 3 years and a bunch of websites later, I opened *Stintup.com*. It is actually my main website and the one which gives me the possibilities to partecipate at different events where I met many interesting people that shared with me their tips and secrets of this strange world.
 
-I started to study and improve my skills and month by month I started to see the first results. Thanks to a good SEO my blog posts are read every day by more than 1,000 people with a peak of near 2,000 people during some days.
+I started to study and improved my skills and month by month I started to see the first results. Thanks to a good SEO my blog posts are read every day by more than 1,500 people with a peak of near 2,000 people during some days.
 
 I also started to improve the basics of digital marketing, especially regarding:
 
-* **affiliate marketing**
-* **content marketing**
+* **Affiliate marketing**
+* **Content marketing**
 * **Advertising**
 
 | WHAT I DO                 |                                                                                                                                                                                                                                                                                                           |
