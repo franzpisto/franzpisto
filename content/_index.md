@@ -33,11 +33,10 @@ sections:
 
           [Click here for more informations](https://franzpisto.com/photo-services/).
         title: Photographer
-      - content: "I graduated in **Master of Science in Finance** during 2020. The same
-          day I was hired by an **investment company** and I work as an Intern
-          Business Analyst: data extraction, data setup and portfolio
-          calculation. Team: Global Investment Platform - Simcorp Dimension
-          Competence Center."
+      - content: "The same day I graduated in MsC Finance I was hired by an **investment
+          company** for an Intern Business Analyst positio. Essentially I do:
+          data extraction, data setup and portfolio calculation. Team: Global
+          Investment Platform - Simcorp Dimension Competence Center."
         title: Business Analyst - SCD
     subtitle: "First of all, I do essentially four things: editor, photographer,
       simple websites and..."
