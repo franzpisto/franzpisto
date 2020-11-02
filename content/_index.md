@@ -2,8 +2,7 @@
 title: Home
 sections:
   - component: hero_block.html
-    content: " Here you will find my past works and what I do: welcome to
-      franzpisto.com"
+    content: " Here you will what I do: welcome to franzpisto.com"
     section_id: hero
     title: Hi, I'm Francesco Pistore.
     type: heroblock
@@ -34,13 +33,13 @@ sections:
 
           [Click here for more informations](https://franzpisto.com/photo-services/).
         title: Photographer
-      - content: I'm a student of a **Master of Science in Finance**. I started to get
-          interested in finance from middle school and now I'm trying to build a
-          solid background making some valid experiences. I cannot offer any
-          services or any kind of works in this field at the moment.
-        title: MSc Finance
-    subtitle: "First of all, I do essentially three things: editor, photographer and
-      I build simple websites."
+      - content: I graduated in **Master of Science in Finance** during 2020. The same
+          day I was hired by an investment company and I work as an Intern
+          Business Analyst utilizing SimCorp Dimension database for data
+          extraction, data setup and portfolio calculation.
+        title: Business Analyst - SimCorp Dimension
+    subtitle: "First of all, I do essentially four things: editor, photographer,
+      simple websites and..."
     title: What I Do
     type: servicesblock
   - component: contact_block.html
