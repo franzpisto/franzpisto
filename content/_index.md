@@ -38,8 +38,8 @@ sections:
           data extraction, data setup and portfolio calculation. Team: Global
           Investment Platform - SimCorp Dimension Competence Center."
         title: Business Analyst - SCD CC
-    subtitle: "First of all, I do essentially four things: editor, photographer,
-      simple websites and..."
+    subtitle: "First of all, I do essentially four things: Editor, simple Websites,
+      Photographer and Business Analyst."
     title: What I Do
     type: servicesblock
   - component: contact_block.html
