@@ -34,7 +34,7 @@ sections:
           [Click here for more informations](https://franzpisto.com/photo-services/).
         title: Photographer
       - content: "The same day I graduated in MsC Finance I was hired by an **investment
-          company** for an Intern Business Analyst positio. Essentially I do:
+          company** for an Intern Business Analyst position. Essentially I do:
           data extraction, data setup and portfolio calculation. Team: Global
           Investment Platform - Simcorp Dimension Competence Center."
         title: Business Analyst - SCD
