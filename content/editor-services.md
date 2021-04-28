@@ -5,7 +5,7 @@ subtitle: If you need a well written and SEO ready article, blog post or guest
   place.
 menu:
   main:
-    name: EDITOR
+    name: COPY/SEO
     weight: 1
 layout: page
 ---
