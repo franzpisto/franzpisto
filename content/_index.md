@@ -11,9 +11,9 @@ sections:
     serviceslist:
       - content: >-
           I have more than 10 years of experience as Editor and I learned
-          everything about it thanks to my role at Stintup.com (I grew it up
-          alone). I can write article, blog posts, improve **SEO** and help you
-          also with **affiliate network** and **content marketing**.\
+          everything about it thanks to my role at Stintup.com. I can write
+          article, blog posts, improve **SEO** and help you also with
+          **affiliate network** and **content marketing (aka copywriter)**.\
 
           [Click here for more informations](https://franzpisto.com/editor-services/).
         title: Editor & Digital Marketing
