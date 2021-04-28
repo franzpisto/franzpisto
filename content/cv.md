@@ -8,11 +8,12 @@ layout: page
 ---
 ## Work Experience
 
-| **Title**                            | **Period**     | **Company**                     | **Location**  |
-| ------------------------------------ | -------------- | ------------------------------- | ------------- |
-| Editor In Chief, PR Manager, Founder | 2012 - ongoing | Stintup                         | Padua, Italy  |
-| Computational Finance Lab            | Sep - Oct 2019 | University Ca' Foscari (Venice) | Venice, Italy |
-| Webmaster & Web Marketer             | 2014 - 2016    | Zanovello Srl                   | Padua, Italy  |
+| **Title**                            | **Period**     | **Company**                     | **Location**   |
+| ------------------------------------ | -------------- | ------------------------------- | -------------- |
+| Junior IT Business Analyst           | 2020 - ongoing | Generali Investments            | Trieste, Italy |
+| Editor In Chief, PR Manager, Founder | 2012 - ongoing | Stintup                         | Padua, Italy   |
+| Computational Finance Lab            | Sep - Oct 2019 | University Ca' Foscari (Venice) | Venice, Italy  |
+| Webmaster & Web Marketer             | 2014 - 2016    | Zanovello Srl                   | Padua, Italy   |
 
 ## Education
 
