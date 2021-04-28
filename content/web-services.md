@@ -5,7 +5,7 @@ subtitle: Do you need a nice and fast website for your online activity? You
   I’m here for you!
 menu:
   main:
-    name: DEV
+    name: WEB DEV
     weight: 2
 layout: page
 ---
