@@ -35,8 +35,8 @@ sections:
         title: Photographer
       - content: "The same day I graduated in MsC Finance I was hired by an **investment
           company** for an Intern Business Analyst position. Essentially I do:
-          data extraction, data setup and portfolio calculation. Team: Global
-          Investment Platform - SimCorp Dimension Competence Center."
+          data modifications, data analysis, data extraction and modeling. Team:
+          Global Investment Platform - SimCorp Dimension."
         title: Business Analyst - SCD CC
     subtitle: "First of all, I do essentially four things: Editor, simple Websites,
       Photographer and Business Analyst."
